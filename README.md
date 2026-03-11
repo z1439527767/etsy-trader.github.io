@@ -1,1 +1,1 @@
-# kalshi-trader.github.io
+# etsy-trader.github.io
